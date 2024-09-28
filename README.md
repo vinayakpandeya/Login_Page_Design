@@ -5,3 +5,6 @@ Today, I designed a login page that includes fields for Username and Password, j
 Check it out on GitHub: https://lnkd.in/gafaQqkk
 
 Excited to see where this journey takes me next!
+
+![image alt](https://github.com/user-attachments/assets/5c8fec9f-f4da-4445-8dc2-1ff92bd93f4f)
+
